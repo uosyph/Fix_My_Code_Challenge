@@ -39,3 +39,7 @@ To fix this, the corrected code updates the order of operations. First, the memo
 In the `else` block, the code incorrectly assigns `(*head)->prev->prev` to `(*head)->prev`, which results in a loss of the previous node's information. The corrected code assigns `(*head)->prev->next` to `(*head)->next`, preserving the correct linkage between the nodes.
 
 Additionally, the order of operations for freeing the memory and updating the pointers is adjusted to match the correct flow of the code. The updated code ensures that the memory is freed before updating the pointers and then assigns `*head` to the original head pointer (`saved_head`), as intended.
+
+## Acknowledgements
+
+The original code challenges were part of the [0x00-Fix_My_Code_Challenge](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge) repository.
