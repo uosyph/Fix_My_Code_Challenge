@@ -4,9 +4,15 @@ This repository contains a fixed version of the code challenge from the original
 
 ## Changes Made
 
-**[status_server/](status_server/)**
+**[status_server/api/v1/views/index.py](status_server/api/v1/views/index.py)**
 
-.
+The issue with the original Python code is that it defined a Flask route decorator as `@app_views.route('/api/v1/status', methods=['GET'], strict_slashes=False)`, but it was incorrect and caused a bug.
+
+To fix this bug, the code was modified by changing the route decorator to `@app_views.route('/status', methods=['GET'], strict_slashes=False)`. By removing the `/api/v1` prefix from the route, the bug was resolved and the endpoint is now accessible at `/status` instead of `/api/v1/status`.
+
+This fix ensures that the Flask application correctly handles requests to the `/status` route, providing the desired functionality.
+
+Overall, the modified code addresses the bug by adjusting the route decorator, ensuring the proper behavior of the application.
 
 **[square.py](square.py)**
 

@@ -31,7 +31,7 @@ This directory contains a fixed version of the code challenge from the original 
 ```
 0x01_challenge/
 ├── status_server/
-│   ├── .
+│   ├── api/v1/views/index.py
 ├── square.py
 ├── user.py
 ├── blog/
