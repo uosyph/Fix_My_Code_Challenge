@@ -30,6 +30,14 @@ This directory contains a fixed version of the code challenge from the original 
 
 ```
 0x01_challenge/
+├── status_server/
+│   ├── .
+├── square.py
+├── user.py
+├── blog/
+│   ├── .
+├── react-blog/
+│   ├── .
 ```
 
 To know more about the changes made to the code, please refer to the [README](./0x01-challenge/README.md) file. It contains detailed information about the specific changes made to each code challenge.
