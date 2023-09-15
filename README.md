@@ -35,9 +35,9 @@ This directory contains a fixed version of the code challenge from the original 
 ├── square.py
 ├── user.py
 ├── blog/
-│   ├── .
+│   ├── (Yet to be fixed)
 ├── react-blog/
-│   ├── .
+│   ├── (Yet to be fixed)
 ```
 
 To know more about the changes made to the code, please refer to the [README](./0x01-challenge/README.md) file. It contains detailed information about the specific changes made to each code challenge.
@@ -46,8 +46,9 @@ To know more about the changes made to the code, please refer to the [README](./
 
 Special thanks to the original authors for creating these challenges and allowing us to fix the code.
 
-Original code for the [0x00_challenge](./0x00_challenge) can be found [here](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge).
-Original code for the [0x01_challenge](./0x01_challenge) can be found [here](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge).
+The original code for the [0x00_challenge](./0x00_challenge) can be found [here](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge).
+
+The original code for the [0x01_challenge](./0x01_challenge) can be found [here](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge).
 
 ## License
 

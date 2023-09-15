@@ -32,11 +32,11 @@ Overall, the fixed code ensures that the `email` attribute can be properly set a
 
 **[blog/](blog/)**
 
-.
+(Yet to be fixed)
 
 **[react-blog/](react-blog/)**
 
-.
+(Yet to be fixed)
 
 ## Acknowledgements
 
