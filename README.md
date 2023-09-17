@@ -35,9 +35,7 @@ This directory contains a fixed version of the code challenge from the original 
 ├── square.py
 ├── user.py
 ├── blog/
-│   ├── (Yet to be fixed)
 ├── react-blog/
-│   ├── (Yet to be fixed)
 ```
 
 To know more about the changes made to the code, please refer to the [README](./0x01-challenge/README.md) file. It contains detailed information about the specific changes made to each code challenge.

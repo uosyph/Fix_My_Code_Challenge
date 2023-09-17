@@ -30,14 +30,6 @@ To fix this, the corrected code first changes the order of the getter and setter
 
 Overall, the fixed code ensures that the `email` attribute can be properly set and retrieved in the `User` class, resolving the issues with the original code.
 
-**[blog/](blog/)**
-
-(Yet to be fixed)
-
-**[react-blog/](react-blog/)**
-
-(Yet to be fixed)
-
 ## Acknowledgements
 
 The original code challenges were part of the [0x01-Fix_My_Code_Challenge](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge) repository.
