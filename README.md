@@ -35,7 +35,15 @@ This directory contains a fixed version of the code challenge from the original 
 ├── square.py
 ├── user.py
 ├── blog/
+│   ├── app/controllers/posts_controller.rb
 ├── react-blog/
+│   ├── src/
+│       ├── actions/
+│           ├── AllPostActions.js
+│           ├── SinglePostActions.js
+│       ├── components/
+│           ├── Header.jsx
+│           ├── PostPreview.jsx
 ```
 
 To know more about the changes made to the code, please refer to the [README](./0x01-challenge/README.md) file. It contains detailed information about the specific changes made to each code challenge.
