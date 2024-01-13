@@ -62,4 +62,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Author
 
-[Yousef Saeed](https://github.com/yousafesaeed)
+[Yousef Saeed](https://github.com/uosyph)
